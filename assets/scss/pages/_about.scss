@@ -1,0 +1,20 @@
+.about-banner{
+    background-image: url('./img/about-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.vm-section{
+    .card{
+        img{
+            width: 80px;
+        }
+    }
+}
+
+@media (max-width: 567px){
+    .h-transparent{
+        height: 44px;
+    }
+}

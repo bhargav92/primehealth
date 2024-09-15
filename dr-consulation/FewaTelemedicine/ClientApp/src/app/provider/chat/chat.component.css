@@ -1,0 +1,277 @@
+/* =========== 
+Theme Color Change
+==============*/
+.blueTheme {
+  --primary: #071b4d;
+  --primary-light:#9EB1E1;
+  --sidemenu-border: #355196;
+  --table-body:#F3F6FF;
+}
+
+.greenTheme {
+  --primary: #009789;
+  --primary-light:#05FFCE;
+  --sidemenu-border: #00E0B4;
+  --table-body:#E1FFF9;
+}
+
+input.form-control, select.form-control, select {
+  height: 46px !important;
+  font-size: 16px !important;
+}
+
+input:focus {
+  outline: none;
+}
+
+select:focus {
+  outline: none;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+::-moz-placeholder {
+  color: rgba(var(--primary), 0.3) !important;
+  font-size: 15px;
+}
+
+::placeholder {
+  color: rgba(var(--primary), 0.3) !important;
+  font-size: 15px;
+}
+
+.wdt-10 {
+  width: 10%;
+}
+
+.wdt-20 {
+  width: 20%;
+}
+
+.wdt-30 {
+  width: 30%;
+}
+
+.wdt-40 {
+  width: 40%;
+}
+
+.wdt-50 {
+  width: 50%;
+}
+
+.wdt-60 {
+  width: 60%;
+}
+
+.wdt-70 {
+  width: 70%;
+}
+
+.wdt-80 {
+  width: 80%;
+}
+
+.wdt-90 {
+  width: 90%;
+}
+
+.wdt-100 {
+  width: 100%;
+}
+
+.searchbarSec {
+  position: relative;
+  width: 100%;
+  float: right;
+}
+.searchbarSec .searchbar {
+  width: 100%;
+  border: none;
+  background: var(--table-body);
+}
+.searchbarSec button {
+  padding: 0;
+  border: none;
+  background: none;
+  position: absolute;
+  top: 5px;
+  right: 15px;
+}
+.searchbarSec button svg {
+  fill: var(--primary);
+  width: 16px;
+  height: 16px;
+}
+
+.main-content .chatMembersList {
+  padding: 30px 0px;
+}
+.main-content .chatMembersList ul {
+  margin-bottom: 0;
+}
+.main-content .chatMembersList ul li {
+  display: block;
+  padding: 10px;
+}
+.main-content .chatMembersList ul li .chatMembers span {
+  color: #999;
+  text-align: right;
+  float: right;
+  font-size: 12px;
+}
+.main-content .chatMembersList ul li p {
+  color: rgba(var(--primary), 0.5);
+  margin-bottom: 0;
+  font-size: 13px;
+}
+.main-content .chatMembersList ul li.active {
+  background-color: var(--table-body);
+}
+.main-content .brd-left {
+  border-left: 1px solid #ccc;
+}
+.main-content .patientDetail {
+  align-items: center;
+  padding: 15px 0;
+  border-bottom: 1px solid #ccc;
+}
+.main-content .patientDetail .activeUser {
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #12DA26;
+  margin-right: 15px;
+}
+.main-content .patientDetail h2 {
+  color: #000;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+.main-content .patientDetail .patientBtn {
+  color: var(--primary);
+}
+.main-content .patientDetail .patientBtn span svg {
+  fill: var(--primary);
+  width: 16px;
+  height: 16px;
+}
+.main-content .chatSectionArea {
+  height: calc(100vh - 210px);
+  padding: 15px 0;
+  overflow-y: auto;
+}
+.main-content .chatSectionArea ul {
+  margin-bottom: 0;
+}
+.main-content .chatSectionArea ul li {
+  display: block;
+  padding-bottom: 15px;
+}
+.main-content .chatSectionArea ul li .userChatSec .userName {
+  font-size: 16px;
+}
+.main-content .chatSectionArea ul li .userChatSec .userChat {
+  align-items: flex-end;
+}
+.main-content .chatSectionArea ul li .userChatSec .userChat .chatmessage {
+  background: var(--table-body);
+  color: #666;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 0px 10px 10px 10px;
+  margin: 0px 10px 15px 0;
+  max-width: 410px;
+  white-space: pre-wrap;
+}
+.main-content .chatSectionArea ul li .userChatSec .userChat .chatmessage .attachment {
+  width: 100px;
+  height: auto;
+}
+.main-content .chatSectionArea ul li .userChatSec .userChat .chatmessage .attachment img {
+  width: 100%;
+}
+.main-content .chatSectionArea ul li .userChatSec .userChat .chatTiming {
+  color: #ccc;
+  font-size: 13px;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.main-content .chatSectionArea ul li .providerChatSec .providerChat {
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.main-content .chatSectionArea ul li .providerChatSec .providerChat .chatmessage {
+  background: #fff;
+  color: #666;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 10px 0px 10px 10px;
+  margin: 0px 0px 15px 10px;
+  max-width: 410px;
+  white-space: pre-wrap;
+}
+.main-content .chatSectionArea ul li .providerChatSec .providerChat .chatmessage .attachment {
+  width: 100px;
+  height: auto;
+}
+.main-content .chatSectionArea ul li .providerChatSec .providerChat .chatmessage .attachment img {
+  width: 100%;
+}
+.main-content .chatSectionArea ul li .providerChatSec .providerChat .chatTiming {
+  color: #ccc;
+  font-size: 13px;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+.main-content .writeChat {
+  border-top: 1px solid #ccc;
+  padding: 10px;
+}
+.main-content .writeChat .display-flex {
+  align-items: center;
+}
+.main-content .writeChat .display-flex .attachmentInsert {
+  width: 95px;
+}
+.main-content .writeChat .display-flex .attachmentInsert ul {
+  margin-bottom: 0;
+}
+.main-content .writeChat .display-flex .attachmentInsert ul li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+.main-content .writeChat .display-flex .attachmentInsert ul li svg {
+  fill: var(--primary);
+  width: 20px;
+  height: 20px;
+}
+.main-content .writeChat .display-flex .chatCOntent {
+  width: calc(100% - 245px);
+}
+.main-content .writeChat .display-flex .chatCOntent input {
+  border: none;
+  background: var(--table-body);
+}
+.main-content .writeChat .display-flex .sentBtnSec {
+  width: 150px;
+  text-align: center;
+}
+.main-content .writeChat .display-flex .sentBtnSec .sendbtn {
+  width: 130px;
+  padding: 8px 0;
+  text-align: center;
+  background: var(--primary);
+  color: #fff;
+  display: block;
+  border-radius: 5px;
+  margin: 0 auto;
+}
+
+.errorMessage {
+  color: red;
+  text-align: center;
+  padding: 5px;
+}/*# sourceMappingURL=chat.component.css.map */

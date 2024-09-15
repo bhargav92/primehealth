@@ -1,0 +1,491 @@
+/* You can add global styles to this file, and also import other style files */
+/* =========== 
+Theme Color Change
+==============*/
+.blueTheme {
+  --primary: #071b4d;
+  --primary-light:#9EB1E1;
+  --sidemenu-border: #355196;
+  --table-body:#F3F6FF;
+}
+
+.greenTheme {
+  --primary: #009789;
+  --primary-light:#05FFCE;
+  --sidemenu-border: #00E0B4;
+  --table-body:#E1FFF9;
+}
+
+input.form-control, select.form-control, select {
+  height: 46px !important;
+  font-size: 16px !important;
+}
+
+input:focus {
+  outline: none;
+}
+
+select:focus {
+  outline: none;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+::-moz-placeholder {
+  color: rgba(var(--primary), 0.3) !important;
+  font-size: 15px;
+}
+
+::placeholder {
+  color: rgba(var(--primary), 0.3) !important;
+  font-size: 15px;
+}
+
+.wdt-10 {
+  width: 10%;
+}
+
+.wdt-20 {
+  width: 20%;
+}
+
+.wdt-30 {
+  width: 30%;
+}
+
+.wdt-40 {
+  width: 40%;
+}
+
+.wdt-50 {
+  width: 50%;
+}
+
+.wdt-60 {
+  width: 60%;
+}
+
+.wdt-70 {
+  width: 70%;
+}
+
+.wdt-80 {
+  width: 80%;
+}
+
+.wdt-90 {
+  width: 90%;
+}
+
+.wdt-100 {
+  width: 100%;
+}
+
+@media print {
+  @page {
+    margin: 0;
+  }
+  body {
+    margin: 1.6cm;
+  }
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+}
+@font-face {
+  font-family: font-regular;
+  src: url(/assets/font/Nunito-Regular.ttf);
+}
+@font-face {
+  font-family: font-semibold;
+  src: url(/assets/font/Nunito-SemiBold.ttf);
+}
+@font-face {
+  font-family: font-bold;
+  src: url(/assets/font/Nunito-Bold.ttf);
+}
+@font-face {
+  font-family: font-extrabold;
+  src: url(/assets/font/Nunito-ExtraBold.ttf);
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: font-bold !important;
+  font-size: 16px !important;
+  position: relative;
+}
+
+ul {
+  list-style: none;
+  margin: 0px 0px 0px 0px;
+  padding: 0 0 0 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+a:focus {
+  outline: none !important;
+}
+
+.pad0 {
+  padding-top: 0 !important;
+  padding-left: 0 !important;
+  padding-bottom: 0 !important;
+  padding-right: 0 !important;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.introSection {
+  display: flex;
+  align-items: center;
+}
+.introSection .intro-form {
+  width: 40%;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  z-index: 1;
+  position: relative;
+}
+.introSection .intro-form::before {
+  content: "";
+  width: 200px;
+  height: 200px;
+  border: 30px solid var(--primary);
+  border-radius: 50%;
+  position: absolute;
+  top: -70px;
+  left: -70px;
+  z-index: -1;
+}
+.introSection .intro-form .introBackIcon {
+  position: absolute;
+  right: -20px;
+  top: 20px;
+}
+.introSection .intro-form .introBackIcon img {
+  width: 130px;
+  height: auto;
+  opacity: 0.08;
+}
+.introSection .intro-form .intro-formSec {
+  width: 65%;
+  padding: 50px 0 0;
+  z-index: 1;
+}
+.introSection .intro-form .intro-formSec h5 {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: rgba(var(--primary), 0.6);
+}
+.introSection .intro-form .intro-formSec h4 {
+  font-size: 20px;
+  color: rgba(var(--primary), 0.6);
+}
+.introSection .intro-form .intro-formSec h6 {
+  font-size: 16px;
+  color: rgba(var(--primary), 0.6);
+}
+.introSection .intro-form .intro-formSec h2 {
+  font-size: 24px;
+}
+.introSection .intro-form .intro-formSec h1 {
+  font-size: 18px;
+  line-height: 24px;
+  padding-bottom: 20px;
+  color: #666;
+}
+.introSection .intro-form .intro-formSec .loginIntro {
+  padding: 15px 0 25px;
+}
+.introSection .intro-form .intro-formSec .forPwd {
+  font-size: 14px;
+  color: rgba(var(--primary), 0.6);
+  padding-bottom: 15px;
+  display: inline-block;
+}
+.introSection .intro-form .intro-formSec form .intro-formList .form-group {
+  margin-bottom: 0.6rem;
+}
+.introSection .intro-form .intro-formSec form .intro-formList .form-group .form-control {
+  height: calc(1.5em + 0.45rem + 2px);
+}
+.introSection .intro-form .intro-formSec form .intro-formList .form-group.form-check input {
+  vertical-align: middle;
+}
+.introSection .intro-form .intro-formSec form .intro-formList .form-group.form-check label {
+  vertical-align: text-top;
+}
+.introSection .intro-form .intro-formSec form .intro-formList .form-group.form-check a {
+  color: var(--primary);
+}
+.introSection .intro-form .intro-formSec form .intro-formList .form-group.form-check .form-check-label {
+  font-size: 13px;
+  color: #999;
+}
+.introSection .intro-form .intro-formSec form .intro-formList .submitBtn {
+  background: var(--primary);
+  color: #fff;
+  width: 100%;
+  font-size: 16px;
+}
+.introSection .intro-form .intro-formSec p {
+  color: #999;
+  font-size: 14px;
+  text-align: center;
+  margin: 15px 0 0;
+}
+.introSection .intro-form .intro-formSec p a {
+  color: var(--primary);
+}
+.introSection .intro-form .intro-formSec p a:hover {
+  text-decoration: none;
+}
+.introSection .intro-about {
+  width: 60%;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+.introSection .intro-about .intro-content {
+  text-align: center;
+  padding: 25px;
+  color: #fff;
+}
+.introSection .intro-about .intro-content .into-logo {
+  text-align: center;
+  padding: 30px;
+}
+.introSection .intro-about .intro-content .into-logo img {
+  width: 250px;
+}
+.introSection .intro-about .intro-content .intro-bannercontent {
+  width: 70%;
+  margin: 0 auto;
+}
+.introSection .intro-about .intro-content .intro-bannercontent p {
+  line-height: 28px;
+  font-size: 20px;
+}
+.introSection .intro-about .intro-content .intro-bannercontent ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.introSection .intro-about .intro-content .intro-bannercontent ul li {
+  display: inline-block;
+  padding: 0 25px;
+}
+.introSection .intro-about .intro-content .intro-bannercontent ul li span {
+  font-size: 17px;
+  vertical-align: text-top;
+  padding: 0 10px 0 0px;
+}
+.introSection .intro-about .intro-content .intro-bannercontent ul li span svg {
+  fill: #fff;
+  fill: #fff;
+  width: 20px;
+  height: 20px;
+}
+.introSection .intro-about .intro-content .intro-bannercontent ul li:first-child {
+  border-right: 2px solid #fff;
+}
+
+.left_sidemenu {
+  background: var(--primary);
+  min-height: 100vh;
+  width: 250px;
+  box-shadow: 1px 0px 20px 8px rgba(0, 0, 0, 0.06);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 10;
+}
+.left_sidemenu .sidemenu_logo {
+  background: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.left_sidemenu .sidemenu_logo img {
+  width: 120px;
+  height: auto;
+}
+.left_sidemenu .sidemenu_list .sidemenu_border {
+  background-color: var(--sidemenu-border);
+  width: 80%;
+  height: 2px;
+  margin: 0 auto;
+}
+.left_sidemenu .sidemenu_list ul {
+  list-style: none;
+  margin: 0;
+  padding: 15px 0 15px;
+}
+.left_sidemenu .sidemenu_list ul li {
+  display: block;
+  color: var(--primary-light);
+  font-size: 16px;
+  padding: 15px 20px;
+  cursor: pointer;
+}
+.left_sidemenu .sidemenu_list ul li span {
+  padding: 0px 10px;
+}
+.left_sidemenu .sidemenu_list ul li span svg {
+  fill: var(--primary-light);
+  width: 16px;
+  height: 16px;
+}
+.left_sidemenu .sidemenu_list ul li:focus {
+  outline: none;
+}
+.left_sidemenu .sidemenu_list ul li.active {
+  color: #fff;
+}
+.left_sidemenu .sidemenu_list ul li.active span svg {
+  fill: #fff;
+}
+
+.fewa_header {
+  margin-left: 250px;
+  padding: 10px 15px;
+  border-bottom: 1px solid #ccc;
+}
+.fewa_header .pageTitle h1 {
+  font-size: 18px;
+  text-transform: capitalize;
+  padding: 8px 0 0;
+}
+.fewa_header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.fewa_header ul li {
+  display: inline-block;
+  padding: 0px 15px;
+}
+.fewa_header ul li .dropdown-menu {
+  left: auto !important;
+  right: -30px !important;
+}
+.fewa_header ul li .profileHeader {
+  display: flex;
+  align-items: center;
+}
+.fewa_header ul li .profileHeader p {
+  font-size: 16px;
+  margin: 0;
+  padding: 0 10px;
+}
+.fewa_header ul li .profileHeader .profilePic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.fewa_header ul li a {
+  font-size: 16px;
+  color: var(--primary);
+}
+
+.main-content {
+  margin-left: 250px;
+  padding: 15px;
+}
+.main-content .card {
+  margin: 15px 0;
+  border: none;
+  box-shadow: 0px 0px 20px 8px rgba(0, 0, 0, 0.06);
+}
+.main-content .fewa-title h1 {
+  font-size: 20px;
+  color: #000;
+}
+
+table {
+  margin-bottom: 0 !important;
+}
+table thead {
+  border: none;
+}
+table thead tr th {
+  border-bottom: none !important;
+  border-top: none !important;
+  font-size: 16px;
+  padding: 10px 15px !important;
+}
+table tbody tr td {
+  color: #666;
+  font-size: 16px;
+  border-bottom: none !important;
+  border-top: none !important;
+  padding: 10px 15px !important;
+  vertical-align: middle !important;
+}
+table tbody tr:nth-child(odd) {
+  background: var(--table-body);
+}
+
+.blueTheme .homeBanner {
+  background: url(/assets/img/banner-bg.png) center right;
+}
+.blueTheme .intro-about {
+  background: url("/assets/img/intro-banner-blue.png") center center;
+}
+
+.greenTheme .homeBanner {
+  background: url(/assets/img/banner-bg-green.png) center right;
+}
+.greenTheme .intro-about {
+  background: url("/assets/img/intro-banner-green.png") center center;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.mat-tooltip {
+  position: relative;
+  top: 10px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-size: 15px !important;
+  margin: auto;
+}
+
+.mat-tooltip-handset {
+  font-size: 10px !important;
+  padding-top: 8px !important;
+  padding-bottom: 0px !important;
+}
+
+.mat-tooltip {
+  background: rgba(97, 97, 97, 0.9);
+}/*# sourceMappingURL=styles.css.map */

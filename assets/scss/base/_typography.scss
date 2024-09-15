@@ -1,0 +1,146 @@
+@import '../abstracts/mixins';
+@import '../abstracts/variables';
+
+.fs-md, p{
+    @include fs-md(14px);
+}
+
+.text-sm{
+    font-size: 0.85rem
+}
+
+small{
+    font-size: 0.75em;
+    color: #666;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.text-justify{
+    text-align: justify
+}
+
+
+
+
+.fw-100{
+    @include font-weight(thin);
+}
+
+.fw-200{
+    @include font-weight(extra-light);
+}
+
+.fw-300{
+    @include font-weight(light);
+}
+
+.fw-400{
+    @include font-weight(normal);
+}
+
+.fw-500{
+    @include font-weight(medium);
+}
+
+.fw-600{
+    @include font-weight(semi-bold);
+}
+
+.mt-65{
+    margin-top: 65px;
+}
+
+.mt-90{
+    margin-top: 90px;
+}
+
+.mt--40{
+    margin-top: -40px;
+}
+
+.py-6{
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
+}
+
+%dark-color{
+    color: $color_1;
+}
+
+.text-dark{
+    @extend %dark-color;
+}
+
+%blue{
+    color: $blue-thick;
+}
+
+.text-blue{
+    @extend %blue;
+}
+
+.text-orange{
+    color: $orange;
+}
+
+.bg-orange-light{
+    background-color: $orange-light;
+}
+
+.bg-light-blue{
+    background-color: $light-blue;
+}
+
+.bg-gradient-thickblue{
+    background: rgb(0, 71, 150);
+    background: linear-gradient(162deg, rgb(0, 71, 150) 0%, rgb(6, 147, 227) 100%);
+}
+
+.bg-gradient-blue{
+    background: $white;
+    background: linear-gradient(145deg, rgb(255, 255, 255) 0%, rgba(236, 241, 247, 0.6671043417) 75%, rgb(0 71 150 / 15%) 100%);
+}
+
+.unstyled{
+    list-style-type: none;
+    padding-inline-start: 0px;
+    line-height: 2.4;
+    @include fs-md(14px);
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.bg-gradient{
+    @include bg-gradient;
+}
+
+.bg-gradient2{
+    @include bg-gradient2;
+}
+
+@media (min-width: 1200px){
+    .w-lg-70{
+        width: 70%;
+    }
+}
+
+@media (min-width:400px) and (max-width: 992px){
+    .w-md-50{
+        width: 50%;
+    }
+}
+
+@media (max-width: 762px){
+    .mt--36{
+        margin-top: -36px;
+    }
+}
+
+@media (max-width: 426px){
+    .direction-column{
+        flex-direction: column;
+    }
+}

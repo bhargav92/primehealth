@@ -1,0 +1,167 @@
+/* =========== 
+Theme Color Change
+==============*/
+.blueTheme {
+  --primary: #071b4d;
+  --primary-light:#9EB1E1;
+  --sidemenu-border: #355196;
+  --table-body:#F3F6FF;
+}
+
+.greenTheme {
+  --primary: #009789;
+  --primary-light:#05FFCE;
+  --sidemenu-border: #00E0B4;
+  --table-body:#E1FFF9;
+}
+
+input.form-control, select.form-control, select {
+  height: 46px !important;
+  font-size: 16px !important;
+}
+
+input:focus {
+  outline: none;
+}
+
+select:focus {
+  outline: none;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+::-moz-placeholder {
+  color: rgba(var(--primary), 0.3) !important;
+  font-size: 15px;
+}
+
+::placeholder {
+  color: rgba(var(--primary), 0.3) !important;
+  font-size: 15px;
+}
+
+.wdt-10 {
+  width: 10%;
+}
+
+.wdt-20 {
+  width: 20%;
+}
+
+.wdt-30 {
+  width: 30%;
+}
+
+.wdt-40 {
+  width: 40%;
+}
+
+.wdt-50 {
+  width: 50%;
+}
+
+.wdt-60 {
+  width: 60%;
+}
+
+.wdt-70 {
+  width: 70%;
+}
+
+.wdt-80 {
+  width: 80%;
+}
+
+.wdt-90 {
+  width: 90%;
+}
+
+.wdt-100 {
+  width: 100%;
+}
+
+.patient-intro {
+  background: url(../../../assets/img/patient-bg.png) center right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 5% 0;
+}
+.patient-intro .previewVideo {
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0px 5px 20px 15px rgba(0, 0, 0, 0.05);
+}
+.patient-intro .card {
+  border: none;
+  box-shadow: 0px 5px 20px 15px rgba(0, 0, 0, 0.05);
+}
+.patient-intro .card .card-body .welcomeNote {
+  width: 85%;
+  margin: 0 auto;
+  padding: 16% 0;
+}
+.patient-intro .card .card-body .welcomeNote h2 {
+  color: #000;
+  font-size: 24px;
+}
+.patient-intro .card .card-body .welcomeNote p {
+  color: #999;
+}
+.patient-intro .card .card-body .welcomeNote h6 {
+  font-size: 16px;
+  color: #666;
+}
+.patient-intro .card .card-body .welcomeNote h6 b {
+  font-size: 17px;
+  color: #000;
+}
+.patient-intro .card .card-body .welcomeNote .custom-control label {
+  font-size: 15px;
+  color: #999;
+}
+.patient-intro .card .card-body .welcomeNote .custom-control label a {
+  color: var(--primary);
+}
+.patient-intro .card .card-body .welcomeNote .submitButton .submitBtn {
+  background: var(--primary);
+  color: #fff;
+  width: 100%;
+  display: inline-block;
+  padding: 8px 20px;
+  margin: 20px 0;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+}
+.patient-intro .card .card-body .welcomeNote .submitButton button:disabled {
+  cursor: not-allowed;
+}
+
+@media only screen and (max-width: 600px) {
+  .patient-intro {
+    padding: 5% 0;
+  }
+  .patient-intro .card {
+    margin-bottom: 15px;
+  }
+  .patient-intro .card .card-body .welcomeNote {
+    width: 99%;
+    margin: 0 auto;
+    padding: 1% 0;
+  }
+  .patient-intro .card .card-body .welcomeNote h2 {
+    color: #000;
+    font-size: 20px;
+  }
+  .patient-intro .card .card-body .welcomeNote .submitButton .submitBtn {
+    margin: 10px 0;
+  }
+}
+.errorMessage {
+  color: red;
+  text-align: center;
+  padding: 5px;
+}/*# sourceMappingURL=intro.component.css.map */

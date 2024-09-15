@@ -1,0 +1,20 @@
+.dr-section{
+    a{
+        img{
+            @include img-size;
+        }
+    }
+}
+
+.dr-list{
+    .dr-profile{
+        width: 70px;
+        // height: 70px;
+        object-fit: cover;
+        -o-object-fit: cover;
+    }
+
+    hr{
+        border-top: 1px dashed #014e9e;
+    }
+}

@@ -1,0 +1,67 @@
+@import '../abstracts/variables';
+@import '../abstracts/mixins';
+
+.login-card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: $w-100;
+    // bottom: 0;
+    position: relative;    
+    @include border-radius(16px, 16px, 16px, 16px);
+}
+
+.inputOtp:focus {
+    border-bottom: 1px solid $orange;
+    outline: none;
+}
+
+.d-login-img{
+    position: absolute;
+    top: 100px;
+    right: 0;
+    left: 0;
+
+    >img{
+        height: 300px;
+    }
+}
+
+@media (min-width:568px){
+    .login-card{
+        top: 60px;
+    }
+}
+
+
+
+@media (max-width: 567px){
+    .login-img{
+        position: fixed;
+        top: -130px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        >img{
+            height: 300px;
+        }
+    }
+    
+    .login-card{
+        position: fixed;
+        width: $w-100;
+        bottom: 0;
+        height: 40vh;
+        @include border-radius(16px, 16px, 0, 0);
+        
+    }
+}
+
+.otp-section{
+    display: none;
+}

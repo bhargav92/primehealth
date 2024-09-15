@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login | Prime Health</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="https://primehealth.in/images/favicon.jpeg" rel="icon">
+    <link href="https://primehealth.in/images/favicon.jpeg" rel="apple-touch-icon">
+
+    <link rel="stylesheet" href="assets/fonts/style.css">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+    <section>
+        <div class="bg-gradient vh-100">
+            <div class="container-fluid">
+                <div class="login-img d-inline-flex d-sm-none d-md-none d-lg-none d-xl-none">
+                    <img src="assets/img/login-img.png" alt="img" class="img-fluid">
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-8 offset-sm-2 col-md-6 offset-md-3 col-lg-4 offset-lg-4">
+                        <div class="d-flex align-items-center justify-content-center flex-column vh-100">  
+                            <div class="d-none d-sm-inline-flex d-md-inline-flex d-lg-inline-flex d-xl-inline-flex align-items-center justify-content-center d-login-img">
+                                <img src="assets/img/login-img.png" alt="img" class="img-fluid ">
+                            </div>                          
+                            <div class="bg-white login-card p-3">                                
+                                <form action="" class="w-100">
+                                    <div class="login-section">
+                                        <div class="mb-3">
+                                            <label class="fs-md fw-600 mb-1">Enter your Email ID/Phone No.</label>
+                                            <input type="text" class="form-control form-control-lg" placeholder="Email/Phone" autofocus>
+                                        </div>
+                                        <div class="d-grid text-end mb-3">
+                                            <button type="button" class="btn btn-orange btn-ripple btn-lg" id="otpBtn">Get OTP</button>
+                                        </div>
+                                        <div class="text-center">
+                                            <small>By signing in you agree to our <br> <span><a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a></span> </small>
+                                        </div>
+                                    </div>
+                                    <div class="otp-section">
+                                        <div class="container-fluid">
+                                            <h6>Enter 4 digit OTP</h6>
+                                            <div class="row mb-3">
+                                                <div class="col-12">
+                                                    <div class="d-flex align-items-center justify-content-between gap-2 mb-2">
+                                                        <input type="text" inputmode="numeric" maxlength="1" class="form-control form-control-lg inputOtp text-center input-focus" placeholder="">
+                                                        <input type="text" inputmode="numeric" maxlength="1" class="form-control form-control-lg inputOtp text-center" placeholder="">
+                                                        <input type="text" inputmode="numeric" maxlength="1" class="form-control form-control-lg inputOtp text-center" placeholder="">
+                                                        <input type="text" inputmode="numeric" maxlength="1" class="form-control form-control-lg inputOtp text-center" placeholder="">
+                                                    </div>
+                                                    <div class="d-none">
+                                                        <small class="text-danger">Please enter correct OTP</small>
+                                                    </div>
+                                                    <div class="fs-md text-end">
+                                                        <a href="javascript:;">Resend OTP</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="d-grid mb-3">
+                                                        <button type="button" class="btn btn-default btn-ripple" id="backBtn">Back</button>
+                                                    </div>
+                                                </div>
+                                                <div class="col-6 col-sm-6 col-md-6 col-lg-6">
+                                                    <div class="d-grid text-end mb-3">
+                                                        <button type="button" class="btn btn-orange btn-ripple">Proceed</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- JS Files -->   
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+
+            $('#otpBtn').click(function(){
+                $('.login-section').hide(1000);
+                $('.otp-section').show(1000);
+                $('.input-focus').focus();
+            })
+
+            $('#backBtn').click(function(){
+                $('.login-section').show(1000);
+                $('.otp-section').hide(1000);
+            })
+
+        })
+
+        // otp validation
+        const form = document.getElementById('form');
+        const username = document.getElementById('username');
+
+
+        // opt form 
+        function otp() {
+            let inputs = Array.from(document.getElementsByClassName("inputOtp"));
+            inputs.forEach((f) =>
+                f.addEventListener("keyup", (e) => {
+                let val = e.target.value;
+                const target = e.target;
+                const key = e.key.toLowerCase();
+
+                if (key == "backspace" || key == "delete") {
+                    target.value = "";
+                    const prev = target.previousElementSibling;
+                    if (prev) {
+                    prev.focus();
+                    }
+                    return;
+                }
+                if (/[0-9]/.test(val)) {
+                    let next = e.target.nextElementSibling;
+                    if (next) next.focus();
+                } else {
+                    // alert("Invalid Input");
+                    e.target.value = "";
+                }
+                })
+            );
+            }
+            otp();
+
+    </script>
+</body>
+</html>

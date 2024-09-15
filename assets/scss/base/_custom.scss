@@ -1,0 +1,189 @@
+@import '../abstracts/_variables.scss';
+// @import '../abstracts/mixins';
+
+// @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+// body{
+//     font-family: $font-family;
+// }
+
+.bg-orange{
+    background-color: $orange;
+}
+
+.bg-blue{
+    background-color: $blue-thick;
+}
+
+.text-webkit-center{
+    text-align: -webkit-center;
+}
+
+@media (min-width: 1200px){
+    .col-xl-1-8{
+        width: 12.5%
+    }
+
+    .col-xl-1-7{
+        width: 14.285%
+    }
+
+	.col-xl-1-5{
+		width: 20%;
+	}
+}
+
+@media (max-width: 326px){
+    .col-1-12{
+        width: 100%;
+    }
+}
+
+@media (max-width: 300px){
+    .filter-item {
+        a{
+            p{
+                font-size: 13px;
+            }
+        }
+    }
+}
+
+
+#ProductNav .nav {
+	display: inherit;
+	flex-wrap: inherit;
+	padding-left: inherit;
+	margin-bottom: inherit;
+	list-style: inherit;
+}
+
+/*--- Wrap Up ---*/
+.ProductNav_Wrapper {
+	position: relative;
+	padding: 0 11px;
+	box-sizing: border-box;
+}
+.ProductNav {
+    /* Make this scrollable when needed */
+    overflow-x: auto;
+    /* We don't want vertical scrolling */
+    overflow-y: hidden;
+    /* For WebKit implementations, provide inertia scrolling */
+    -webkit-overflow-scrolling: touch;
+    /* We don't want internal inline elements to wrap */
+    white-space: nowrap;
+    /* If JS present, let's hide the default scrollbar */
+    .js & {
+        /* Make an auto-hiding scroller for the 3 people using a IE */
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        /* Remove the default scrollbar for WebKit implementations */
+        &::-webkit-scrollbar {
+            display: none;
+        }
+    }
+	/* positioning context for advancers */
+	position: relative;
+	// Crush the whitespace here
+	font-size: 0;
+}
+
+.ProductNav_Contents {
+	float: left;
+	transition: transform .2s ease-in-out;
+	position: relative;
+}
+
+.ProductNav_Contents-no-transition {
+	transition: none;
+}
+
+.ProductNav_Link {
+	text-decoration: none;
+	color: #7f868b;
+	// Reset the font Size
+	font-size: 0.85rem;
+	font-weight:500;
+	display: table-cell;
+	vertical-align:middle;
+	padding: 8px 12px;
+	line-height:1.35;
+	// & + & {
+	// 	border-left-color: #eee;
+	// }
+	// &[aria-selected="true"] {
+	// 	color: #6a2c79;
+	// }
+
+    &.active{
+        background-color: $blue-thick;
+        color: $white !important;
+        border: none;
+    }
+}
+
+.Advancer {
+	/* Reset the button */
+	appearance: none;
+	background: transparent;
+	padding: 0;
+	border: 0;
+	&:focus {
+		outline: 0;
+	}
+	&:hover {
+		cursor: pointer;
+	}
+	/* Now style it as needed */
+	position: absolute;
+	top: 2px;
+	bottom: 0;
+	/* Set the buttons invisible by default */
+	opacity: 0;
+	transition: opacity .3s;
+}
+
+.Advancer_Left {
+	left: 0;
+	[data-overflowing="both"] ~ &,
+	[data-overflowing="left"] ~ & {
+		opacity: 1;
+	}
+}
+
+.Advancer_Right {
+	right: 0;
+	[data-overflowing="both"]  ~ &,
+	[data-overflowing="right"] ~ & {
+		opacity: 1;
+	}
+}
+
+.Advancer_Icon {
+	width: 12px;
+	height: 44px;
+	fill: #bbb;
+}
+
+.ProductNav_Indicator {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	height: 3px;
+	width: 100px;
+	background-color: transparent;
+	transform-origin: 0 0;
+	transition: transform .2s ease-in-out, background-color .2s ease-in-out;
+}
+
+  .none-d{
+    display: none;
+}
+
+// .img-position{
+//     img{
+//         position: absolute;
+//         bottom: 0;
+//         width: 12%;
+//     }
+// }

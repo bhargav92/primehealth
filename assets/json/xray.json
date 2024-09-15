@@ -1,0 +1,2760 @@
+[
+ {
+  "TestID": "PHXR0001",
+  "TestName": "XRay - Reporting Charges For Single View",
+  "OurPrice": 30,
+  "CustomerPrice": 30,
+  "ActualPrice": 30
+ },
+ {
+  "TestID": "PHXR0002",
+  "TestName": "XRay - DENTAL FILMS 1",
+  "OurPrice": 60,
+  "CustomerPrice": 60,
+  "ActualPrice": 60
+ },
+ {
+  "TestID": "PHXR0003",
+  "TestName": "XRay - Reporting Charges (1 Films)",
+  "OurPrice": 100,
+  "CustomerPrice": 100,
+  "ActualPrice": 100
+ },
+ {
+  "TestID": "PHXR0004",
+  "TestName": "XRay - DENTAL FILMS 2",
+  "OurPrice": 120,
+  "CustomerPrice": 120,
+  "ActualPrice": 120
+ },
+ {
+  "TestID": "PHXR0005",
+  "TestName": "XRay - Reporting Charges (3 Films)",
+  "OurPrice": 150,
+  "CustomerPrice": 150,
+  "ActualPrice": 150
+ },
+ {
+  "TestID": "PHXR0006",
+  "TestName": "XRay - DENTAL FILMS 3",
+  "OurPrice": 180,
+  "CustomerPrice": 180,
+  "ActualPrice": 180
+ },
+ {
+  "TestID": "PHXR0007",
+  "TestName": "XRay - EXTRA CHARGES 1 FILM",
+  "OurPrice": 200,
+  "CustomerPrice": 200,
+  "ActualPrice": 200
+ },
+ {
+  "TestID": "PHXR0008",
+  "TestName": "X-RAY HOME VISIT CHARGES",
+  "OurPrice": 200,
+  "CustomerPrice": 200,
+  "ActualPrice": 200
+ },
+ {
+  "TestID": "PHXR0009",
+  "TestName": "X-RAY FILM PRINT (1 FILM )",
+  "OurPrice": 250,
+  "CustomerPrice": 250,
+  "ActualPrice": 250
+ },
+ {
+  "TestID": "PHXR0010",
+  "TestName": "XRAY - OBLIQUE VIEW OF HAND RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0011",
+  "TestName": "XRay - AP VIEW (ANY PART)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0012",
+  "TestName": "XRay - AP VIEW ABDOMEN PLAIN",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0013",
+  "TestName": "XRay - AP VIEW CERVICAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0014",
+  "TestName": "XRay - AP VIEW CHEST",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0015",
+  "TestName": "XRay - AP VIEW DORSAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0016",
+  "TestName": "XRay - AP VIEW HIP JOINT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0017",
+  "TestName": "XRay - AP VIEW KUB",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0018",
+  "TestName": "XRay - AP VIEW HIP JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0019",
+  "TestName": "XRay - AP VIEW SHOULDER LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0020",
+  "TestName": "XRay - AP VIEW LUMBAR SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0021",
+  "TestName": "XRay - AP VIEW LUMBO SACRAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0022",
+  "TestName": "XRay - AP VIEW NASAL BONE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0023",
+  "TestName": "XRay - AP VIEW NECK",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0024",
+  "TestName": "XRay - AP VIEW PELVIS",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0025",
+  "TestName": "XRay - AP VIEW HIP JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0026",
+  "TestName": "XRay - AP VIEW SHOULDER RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0027",
+  "TestName": "XRay - AP VIEW THIGH RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0028",
+  "TestName": "XRay - AP VIEW SACROILIAC JOINT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0029",
+  "TestName": "XRay - AP VIEW SHOULDER",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0030",
+  "TestName": "XRay - AP VIEW SKULL",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0031",
+  "TestName": "XRay - AP VIEW STANDING KNEE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0032",
+  "TestName": "XRay - AP VIEW STERNUM",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0033",
+  "TestName": "XRay - AP VIEW THORASIC INLET",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0034",
+  "TestName": "XRay - AP VIEW WRIST",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0035",
+  "TestName": "XRay - DENTAL FILMS 4",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0036",
+  "TestName": "XRay - DENTAL FILMS 5",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0037",
+  "TestName": "XRay - LAT VIEW (ANY PART)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0038",
+  "TestName": "XRay - LAT VIEW ADENOIDS",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0039",
+  "TestName": "XRay - LAT VIEW DORSO LUMBAR SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0040",
+  "TestName": "XRay - LAT VIEW HUMEROUS",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0041",
+  "TestName": "XRay - LAT VIEW OF CERVICAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0042",
+  "TestName": "XRay - LAT VIEW OF CHEST",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0043",
+  "TestName": "XRay - LAT VIEW OF HEEL LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0044",
+  "TestName": "XRay - LAT VIEW OF SCAPULA LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0045",
+  "TestName": "XRay - LAT VIEW OF LUMBO SACRAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0046",
+  "TestName": "XRay - LAT VIEW OF NASOPHARNYX",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0047",
+  "TestName": "XRay - LAT VIEW OF NECK",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0048",
+  "TestName": "XRay - LAT VIEW OF SCAPULA RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0049",
+  "TestName": "XRay - LAT VIEW OF STERNUM",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0050",
+  "TestName": "XRay - LAT VIEW OF CERVICO DORSAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0051",
+  "TestName": "XRay - LAT VIEW OF COCCYX",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0052",
+  "TestName": "XRay - LAT VIEW OF DORSAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0053",
+  "TestName": "XRay - LAT VIEW OF EXTENSION",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0054",
+  "TestName": "XRay - LAT VIEW OF FLEXION",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0055",
+  "TestName": "XRay - LAT VIEW OF FLEXION CERVICAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0056",
+  "TestName": "XRay - LAT VIEW OF LUMBAR SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0057",
+  "TestName": "XRay - LAT VIEW OF MANDABLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0058",
+  "TestName": "XRay - LAT VIEW OF MASTOID ONE SIDE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0059",
+  "TestName": "XRay - LAT VIEW OF NASAL BONE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0060",
+  "TestName": "XRay - LAT VIEW OF NECK FOR SOFT TISSUES",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0061",
+  "TestName": "XRay - LAT VIEW OF SHOULDER",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0062",
+  "TestName": "XRay - LAT VIEW OF SKULL",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0063",
+  "TestName": "XRay - NEUTRAL VIEW",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0064",
+  "TestName": "XRay - OBLIQUE VIEW OF CHEST RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0065",
+  "TestName": "XRay - OBLIQUE VIEW",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0066",
+  "TestName": "XRay - OBLIQUE VIEW (ANY PART)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0067",
+  "TestName": "XRay - OBLIQUE VIEW OF LEFT SACROILIAC JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0068",
+  "TestName": "XRay - OBLIQUE VIEW OF SACRO ILIAC JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0069",
+  "TestName": "XRay - OBLIQUE VIEW OF SKULL",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0070",
+  "TestName": "XRay - OBLIQUE VIEW OF TM JOINTS",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0071",
+  "TestName": "XRay - OBLIQUE VIEW OF CERVICAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0072",
+  "TestName": "XRay - OBLIQUE VIEW OF TM JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0073",
+  "TestName": "XRay - OBLIQUE VIEW OF SACROILIAC JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0074",
+  "TestName": "XRay - OBLIQUE VIEW OF SACRO ILIAC JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0075",
+  "TestName": "XRay - OBLIQUE VIEW OF WRIST",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0076",
+  "TestName": "XRay - OCCLUSOL VIEW OF MAXILLA",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0077",
+  "TestName": "XRay - PA VIEW (ANY PART)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0078",
+  "TestName": "XRay - PA VIEW OF CARPAL TUNNEL",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0079",
+  "TestName": "XRay - PA VIEW OF FEMUR",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0080",
+  "TestName": "XRay - PA VIEW OF HAND",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0081",
+  "TestName": "XRay - PA VIEW OF PARA NASAL SINUSES (PNS)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0082",
+  "TestName": "XRay - PA VIEW OF SKULL",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0083",
+  "TestName": "XRay - PA VIEW OF WRIST",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0084",
+  "TestName": "XRay - PA VIEW OF ABDOMEN ERECT (CHILD)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0085",
+  "TestName": "XRay - PA VIEW OF ABDOMEN ERECT (ADULTS)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0086",
+  "TestName": "XRay - PA VIEW OF CHEST",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0087",
+  "TestName": "XRay - PA VIEW OF FACIAL BONES",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0088",
+  "TestName": "XRay - PARANASAL SINUSES",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0089",
+  "TestName": "XRay - SINGLE FILM (ANY PART)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0090",
+  "TestName": "XRay - SKYLINE VIEW OF PATELLA",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0091",
+  "TestName": "XRay - OCCLUSOL VIEW OF MANDIBLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0092",
+  "TestName": "XRay - LAT VIEW OF FEET RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0093",
+  "TestName": "XRay - AP VIEW OF HAND RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0094",
+  "TestName": "XRay - AP VIEW OF ELBOW LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0095",
+  "TestName": "XRay - AP VIEW OF KNEE RIGHT (STANDING)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0096",
+  "TestName": "XRay - LAT VIEW OF HIP JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0097",
+  "TestName": "XRay - LAT VIEW OF HEEL RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0098",
+  "TestName": "XRay - AXIAL VIEW SHOULDER RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0099",
+  "TestName": "XRay - LAT VIEW OF FOOT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0100",
+  "TestName": "XRAY - LAT VIEW OF KNEE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0101",
+  "TestName": "XRay - LAT VIEW ANKLE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0102",
+  "TestName": "XRay - LAT VIEW OF LUMBAR SPINE FLEXION",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0103",
+  "TestName": "XRay - AP VIEW FOOT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0104",
+  "TestName": "XRay - LAT VIEW OF HAND RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0105",
+  "TestName": "XRay - LAT VIEW OF FOOT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0106",
+  "TestName": "XRay - LAT VIEW OF HAND LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0107",
+  "TestName": "XRay - AP VIEW OF LEG LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0108",
+  "TestName": "XRay - AP VIEW OF HAND LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0109",
+  "TestName": "XRay - OBLIQUE VIEW OF FOOT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0110",
+  "TestName": "XRay - PA VIEW OF MANDIBLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0111",
+  "TestName": "XRay - LAT VIEW HIP JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0112",
+  "TestName": "XRay - SKYLINE VIEW OF KNEE SINGLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0113",
+  "TestName": "XRay - AXIAL VIEW OF ANKLE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0114",
+  "TestName": "XRay - LAT VIEW OF KNEE JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0115",
+  "TestName": "XRay - OBLIQUE VIEW OF LUMBO SACRAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0116",
+  "TestName": "XRAY - AP VIEW OF ANKLE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0117",
+  "TestName": "XRAY - LAT VIEW OF ANKLE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0118",
+  "TestName": "XRAY - AP VIEW OF ANKLE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0119",
+  "TestName": "XRAY - AXIAL VIEW OF ANKLE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0120",
+  "TestName": "XRAY - AP VIEW OF ARM LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0121",
+  "TestName": "XRAY - LAT VIEW OF ARM LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0122",
+  "TestName": "XRAY - AP VIEW OF ARM RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0123",
+  "TestName": "XRay - LAT VIEW OF ARM RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0124",
+  "TestName": "XRAY - AP VIEW OF CERVICO DORSAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0125",
+  "TestName": "XRAY - AP VIEW OF COCCYX",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0126",
+  "TestName": "XRay - AP VIEW OF DORSO LUMBAR SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0127",
+  "TestName": "XRAY - AP VIEW OF ELBOW RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0128",
+  "TestName": "XRAY - LAT VIEW OF ELBOW LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0129",
+  "TestName": "XRay - LAT VIEW OF ELBOW RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0130",
+  "TestName": "XRay - OBLIQUE VIEW OF ELBOW LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0131",
+  "TestName": "XRAY - OBLIQUE VIEW OF ELBOW RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0132",
+  "TestName": "XRAY - AP VIEW OF FEMUR LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0133",
+  "TestName": "XRAY - AP VIEW OF FEMUR RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0134",
+  "TestName": "XRAY - LAT VIEW OF FEMUR LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0135",
+  "TestName": "XRay - LAT VIEW OF FEMUR RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0136",
+  "TestName": "XRAY - AP VIEW OF FOOT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0137",
+  "TestName": "XRay - OBLIQUE VIEW OF FOOT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0138",
+  "TestName": "XRay - OBLIQUE VIEW OF FOOT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0139",
+  "TestName": "XRAY - AP VIEW OF FOREARM RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0140",
+  "TestName": "XRay - LAT VIEW OF FOREARM RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0141",
+  "TestName": "XRAY - AP VIEW OF FOREARM LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0142",
+  "TestName": "XRAY - LAT VIEW OF FOREARM LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0143",
+  "TestName": "XRay - OBLIQUE VIEW OF HAND LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0144",
+  "TestName": "XRAY - AXIAL VIEW OF HEEL RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0145",
+  "TestName": "XRAY - AXIAL VIEW OF HEEL LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0146",
+  "TestName": "XRay - AP VIEW OF KNEE JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0147",
+  "TestName": "XRay - LAT VIEW OF KNEE JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0148",
+  "TestName": "XRay - AP VIEW OF KNEE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0149",
+  "TestName": "XRay - AP VIEW OF KNEE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0150",
+  "TestName": "XRay - LAT VIEW OF KNEE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0151",
+  "TestName": "XRay - PA VIEW OF KNEE RIGHT (STANDING)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0152",
+  "TestName": "XRay - PA VIEW OF KNEE LEFT (STANDING)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0153",
+  "TestName": "XRay - SKYLINE VIEW OF KNEE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0154",
+  "TestName": "XRay - SKYLINE VIEW OF KNEE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0155",
+  "TestName": "XRAY - AP VIEW OF LEG RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0156",
+  "TestName": "XRay - LAT VIEW OF LEG RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0157",
+  "TestName": "XRAY - LAT VIEW OF LEG LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0158",
+  "TestName": "XRAY - FLEXION LUMBO SACRAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0159",
+  "TestName": "XRAY - AP VIEW OF MANDIBLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0160",
+  "TestName": "XRAY - LAT VIEW OF MANDIBLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0161",
+  "TestName": "XRay - AP VIEW OF KNEE JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0162",
+  "TestName": "XRAY - AP VIEW OF KNEE STANDING RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0163",
+  "TestName": "XRAY - AP VIEW OF ORBIT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0164",
+  "TestName": "XRAY - AP VIEW OF ORBIT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0165",
+  "TestName": "XRAY - AP VIEW OF ORBIT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0166",
+  "TestName": "XRAY - LAT VIEW OF PELVIS",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0167",
+  "TestName": "XRAY - KUB",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0168",
+  "TestName": "XRay - AP VIEW OF SCAPULA (2 FILMS)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0169",
+  "TestName": "XRay - AP VIEW OF SCAPULA (ONE FILM)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0170",
+  "TestName": "XRAY - AXILLARY SHOULDER LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0171",
+  "TestName": "XRAY - AXILLARY SHOULDER RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0172",
+  "TestName": "XRAY - LAT VIEW OF SHOULDER LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0173",
+  "TestName": "XRay - LAT VIEW OF SHOULDER RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0174",
+  "TestName": "XRay - OBLIQUE VIEW OF SHOULDER LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0175",
+  "TestName": "XRAY - OBLIQUE VIEW OF SHOULDER RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0176",
+  "TestName": "XRAY - OBLIQUE VIEW OF SHOULDER",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0177",
+  "TestName": "XRay - OBLIQUE VIEW OF TM JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0178",
+  "TestName": "XRAY - AP VIEW OF TM JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0179",
+  "TestName": "XRAY - AP VIEW OF TM JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0180",
+  "TestName": "XRay - LAT VIEW OF TM JOINT RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0181",
+  "TestName": "XRAY - LAT VIEW OF TM JOINT LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0182",
+  "TestName": "XRAY - AP VIEW OF THUMB LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0183",
+  "TestName": "XRAY - AP VIEW OF THUMB RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0184",
+  "TestName": "XRay - LAT VIEW OF THUMB LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0185",
+  "TestName": "XRay - LAT VIEW OF THUMB RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0186",
+  "TestName": "XRay - AP VIEW WRIST RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0187",
+  "TestName": "XRay - AP VIEW WRIST LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0188",
+  "TestName": "XRay - LAT VIEW WRIST RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0189",
+  "TestName": "XRay - LAT VIEW OF WRIST LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0190",
+  "TestName": "XRay - OBLIQUE VIEW WRIST RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0191",
+  "TestName": "XRay - OBLIQUE VIEW OF WRIST LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0192",
+  "TestName": "XRay - PA VIEW OF WRIST RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0193",
+  "TestName": "XRay - PA VIEW OF WRIST LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0194",
+  "TestName": "XRay - SCHAPHOID VIEW OF WRIST LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0195",
+  "TestName": "XRay - SCHAPHOID VIEW OF WRIST RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0196",
+  "TestName": "XRAY - AP VIEW OF KNEE LEFT (STANDING)",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0197",
+  "TestName": "XRay - MORTISE VIEW OF ANKLE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0198",
+  "TestName": "XRay - LAT VIEW OF EXTENTION CERVICAL SPINE",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0199",
+  "TestName": "XRay - OBLIQUE VIEW OF LUMBO SACRAL SPINE LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0200",
+  "TestName": "XRay - OBLIQUE VIEW OF LUMBO SACRAL SPINE RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0201",
+  "TestName": "XRay - LAT VIEW OF THIGH RIGHT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0202",
+  "TestName": "XRay - LAT VIEW OF THIGH LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0203",
+  "TestName": "XRay - AP VIEW THIGH LEFT",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0204",
+  "TestName": "XRay AP View of Clavicle",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0205",
+  "TestName": "XRay - AP VIEW SACRUM",
+  "OurPrice": 196,
+  "CustomerPrice": 238,
+  "ActualPrice": 280
+ },
+ {
+  "TestID": "PHXR0206",
+  "TestName": "XRay - DENTAL FILMS 6",
+  "OurPrice": 245,
+  "CustomerPrice": 297.5,
+  "ActualPrice": 350
+ },
+ {
+  "TestID": "PHXR0207",
+  "TestName": "XRay - EXTRA CHARGES 2 FILMS",
+  "OurPrice": 245,
+  "CustomerPrice": 297.5,
+  "ActualPrice": 350
+ },
+ {
+  "TestID": "PHXR0208",
+  "TestName": "XRay - DENTAL FILMS 7",
+  "OurPrice": 280,
+  "CustomerPrice": 340,
+  "ActualPrice": 400
+ },
+ {
+  "TestID": "PHXR0209",
+  "TestName": "XRay - EXTRA CHARGES 3 FILMS",
+  "OurPrice": 315,
+  "CustomerPrice": 382.5,
+  "ActualPrice": 450
+ },
+ {
+  "TestID": "PHXR0210",
+  "TestName": "XRay - LAT VIEW OF ORBIT LEFT",
+  "OurPrice": 315,
+  "CustomerPrice": 382.5,
+  "ActualPrice": 450
+ },
+ {
+  "TestID": "PHXR0211",
+  "TestName": "XRAY - LAT VIEW OF ORBIT",
+  "OurPrice": 315,
+  "CustomerPrice": 382.5,
+  "ActualPrice": 450
+ },
+ {
+  "TestID": "PHXR0212",
+  "TestName": "XRay - LAT VIEW OF ORBIT RIGHT",
+  "OurPrice": 315,
+  "CustomerPrice": 382.5,
+  "ActualPrice": 450
+ },
+ {
+  "TestID": "PHXR0213",
+  "TestName": "XRay - 2 FILMS (ANY PART)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0214",
+  "TestName": "XRay - AP & LAT VIEWS OF LEG RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0215",
+  "TestName": "XRay - AP & LAT VIEWS OF LEG LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0216",
+  "TestName": "XRay - AP & LAT VIEWS OF ELBOW LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0217",
+  "TestName": "XRay - AP & LAT VIEWS OF ARM LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0218",
+  "TestName": "XRay - AP & LAT VIEWS OF HAND LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0219",
+  "TestName": "XRay - AP & LAT VIEWS OF HAND RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0220",
+  "TestName": "XRay - AP & LAT COCCYX",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0221",
+  "TestName": "XRay - AP & LAT LUMBO SACRAL SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0222",
+  "TestName": "XRay - AP & LAT VIEWS OF THUMB RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0223",
+  "TestName": "XRay - AP & LAT VIEWS OF FOREARM RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0224",
+  "TestName": "XRay - AP & LAT VIEWS OF WRIST RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0225",
+  "TestName": "XRay - AP & LAT VIEWS OF SKULL",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0226",
+  "TestName": "XRay - AP & LAT VIEWS OF KNEE JOINT RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0227",
+  "TestName": "XRay - AP & LAT VIEWS OF SHOULDER RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0228",
+  "TestName": "XRay - AP & LAT VIEWS OF THIGH RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0229",
+  "TestName": "XRay - AP & LAT VIEWS OF THIGH UPPER RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0230",
+  "TestName": "XRay - AP & LAT VIEWS OF SCAPULA (ONE FILM)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0231",
+  "TestName": "XRay - AP & LAT VIEWS OF CERVICO DORSAL SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0232",
+  "TestName": "XRay - AP & LAT VIEWS OF DORSAL SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0233",
+  "TestName": "XRay - AP & LAT VIEWS OF FEMUR",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0234",
+  "TestName": "XRay - AP & LAT VIEWS OF WRIST LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0235",
+  "TestName": "XRay - AP & LAT VIEWS OF ANKLE LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0236",
+  "TestName": "XRay - AP & LAT VIEWS OF FEMUR LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0237",
+  "TestName": "XRay - AP & LAT VIEWS OF HEEL LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0238",
+  "TestName": "XRay - AP & LAT VIEWS OF SCAPULA LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0239",
+  "TestName": "XRay - AP & LAT VIEWS OF SHOULDER LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0240",
+  "TestName": "XRay - AP & LAT VIEWS OF LEG",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0241",
+  "TestName": "XRay - AP & LAT VIEWS OF LUMBAR SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0242",
+  "TestName": "XRay - AP & LAT VIEWS OF ELBOW RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0243",
+  "TestName": "XRay - AP & LAT VIEWS OF FOOT RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0244",
+  "TestName": "XRay - AP & LAT VIEWS OF FEMUR RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0245",
+  "TestName": "XRay - AP & LAT VIEWS OF FINGER RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0246",
+  "TestName": "XRay - AP & LAT VIEWS OF CERVICAL SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0247",
+  "TestName": "XRay - AP & LAT VIEWS OF DORSO-LUMBAR SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0248",
+  "TestName": "XRay - AP & LAT VIEWS OF ELBOW",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0249",
+  "TestName": "XRay - AP & LAT VIEWS OF EXTREMITIES",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0250",
+  "TestName": "XRay - AP & LAT VIEWS OF FOREARM LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0251",
+  "TestName": "XRay - AP & LAT VIEWS OF HIP JOINT RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0252",
+  "TestName": "XRay - AP & LAT VIEWS OF FINGER LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0253",
+  "TestName": "XRay - AP & LAT VIEWS OF FOOT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0254",
+  "TestName": "XRay - AP & LAT VIEWS OF HIP JOINT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0255",
+  "TestName": "XRay - AP & LAT VIEWS OF KNEE JOINT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0256",
+  "TestName": "XRay - AP & LAT VIEWS OF MANDIBLE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0257",
+  "TestName": "XRay - AP & LAT VIEWS OF NECK",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0258",
+  "TestName": "XRay - AP & LAT VIEWS OF PELVIS",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0259",
+  "TestName": "XRay - AP & LAT VIEWS OF ANKLE RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0260",
+  "TestName": "XRay - AP & LAT VIEWS OF ARM RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0261",
+  "TestName": "XRay - AP & LAT VIEWS OF HEEL RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0262",
+  "TestName": "XRay - AP & LAT VIEWS OF TM JOINT RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0263",
+  "TestName": "XRay - AP & LAT VIEWS OF SACROCOCCYGEAL REGION",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0264",
+  "TestName": "XRay - AP & OBL VIEW OF TOES RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0265",
+  "TestName": "XRay - AP & OBL VIEWS OF FOOT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0266",
+  "TestName": "XRay - AP & OBL VIEWS OF FOOT RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0267",
+  "TestName": "XRay - AP & OBL VIEWS OF THUMB",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0268",
+  "TestName": "XRay - AP & OBL VIEWS OF TOES",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0269",
+  "TestName": "XRay - AP & SCHAPHOID VIEWS OF WRIST RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0270",
+  "TestName": "XRay - AP AND LAT VIEW (ANY PART)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0271",
+  "TestName": "XRay - AP VIEW KNEE JOINTS BOTH (STANDING)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0272",
+  "TestName": "XRay - AP VIEW ANKLE BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0273",
+  "TestName": "XRay - AP VIEW FEET BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0274",
+  "TestName": "XRay - AP VIEW FOOT BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0275",
+  "TestName": "XRay - AP VIEW HANDS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0276",
+  "TestName": "XRay - AP VIEW KNEES BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0277",
+  "TestName": "XRay - AP VIEW WRIST BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0278",
+  "TestName": "XRay - AP VIEW FOR HIP JOINTS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0279",
+  "TestName": "XRay - AP VIEW LEGS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0280",
+  "TestName": "XRay - AXIAL VIEW HEEL BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0281",
+  "TestName": "XRay - LAT & OBL VIEWS OF FINGER",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0282",
+  "TestName": "XRay - LAT & OBL VIEWS OF SKULL RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0283",
+  "TestName": "XRay - LAT VIEW HEEL BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0284",
+  "TestName": "XRay - LAT VIEW ANKLE BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0285",
+  "TestName": "XRay - LAT VIEW OF MASTOIDS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0286",
+  "TestName": "XRay - LAT VIEW OF EXTENSION AND FLEXION L.SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0287",
+  "TestName": "XRay - LAT VIEW OF FLEXION & EXTENTION C- SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0288",
+  "TestName": "XRay - OBLIQUE VIEW OF CHEST",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0289",
+  "TestName": "XRay - OBLIQUE VIEW OF ORBIT RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0290",
+  "TestName": "XRay - AP & LAT VIEWS OF ORBIT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0291",
+  "TestName": "XRay - INFANTOGRAM",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0292",
+  "TestName": "XRay - AP & LAT VIEWS OF THIGH LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0293",
+  "TestName": "XRay - LAT VIEW FEET BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0294",
+  "TestName": "XRay - AP & OBLIQUE VIEW OF HAND LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0295",
+  "TestName": "XRay - AXIAL & LATERAL VIEWS OF HEEL LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0296",
+  "TestName": "XRay - AP & LAT VIEW OF PELVIS",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0297",
+  "TestName": "XRay - AP VIEW OF KNEES BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0298",
+  "TestName": "XRay - LAT & PA VIEWS OF HAND RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0299",
+  "TestName": "XRay - AP & LAT VIEWS CHEST",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0300",
+  "TestName": "XRay - AP & AXILLARY VIEWS OF SHOULDER RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0301",
+  "TestName": "XRay - SKYLINE VIEW OF KNEES BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0302",
+  "TestName": "XRay - AP & AXILLARY VIEWS OF SHOULDER LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0303",
+  "TestName": "XRay - AP & OBLIQUE VIEW OF HAND RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0304",
+  "TestName": "XRay - LAT & Axial VIEWS OF ANKLE RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0305",
+  "TestName": "XRay - LAT VIEW OF KNEE BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0306",
+  "TestName": "XRay - AP & OBL VIEWS OF FINGER",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0307",
+  "TestName": "XRay - AP & OBL VIEWS OF LEG",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0308",
+  "TestName": "XRay - OBLIQUE VIEW OF ORBIT BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0309",
+  "TestName": "XRay - AP & LAT VIEWS THORASIC INLET",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0310",
+  "TestName": "XRay - AP & LAT VIEWS OF THUMB LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0311",
+  "TestName": "XRay - PA VIEW OF KNEES BOTH (STANDING)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0312",
+  "TestName": "XRay - AP VIEW &SKYLINE VIEW OF KNEE SINGLE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0313",
+  "TestName": "XRay - AP & LAT VIEWS OF KNEE RIGHT (STANDING)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0314",
+  "TestName": "XRay - AP & LAT VIEWS OF HUMERUS RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0315",
+  "TestName": "XRAY - AXIAL VIEW OF ANKLE BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0316",
+  "TestName": "XRAY - AP VIEW OF ELBOWS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0317",
+  "TestName": "XRAY - LAT VIEW OF ELBOWS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0318",
+  "TestName": "XRay - OBLIQUE VIEW OF ELBOWS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0319",
+  "TestName": "XRAY - AP VIEW OF FEMUR BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0320",
+  "TestName": "XRAY - LAT VIEW OF FEMUR BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0321",
+  "TestName": "XRay - OBLIQUE VIEW OF FEET BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0322",
+  "TestName": "XRAY - AP VIEW OF FOREARM BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0323",
+  "TestName": "XRAY - LAT VIEW OF FOREARM BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0324",
+  "TestName": "XRay - OBLIQUE VIEW OF HANDS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0325",
+  "TestName": "XRAY - LAT & PA VIEWS OF HAND LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0326",
+  "TestName": "XRAY - LAT VIEW OF HANDS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0327",
+  "TestName": "XRay - AXIAL & LATERAL VIEWS OF HEEL RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0328",
+  "TestName": "XRAY - LAT VIEW HIP JOINT BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0329",
+  "TestName": "XRay - AP VIEW OF KNEES BOTH (STANDING)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0330",
+  "TestName": "XRay - LAT VIEW OF KNEES BOTH (STANDING)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0331",
+  "TestName": "XRay - AP & LAT VIEW OF KNEE JOINT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0332",
+  "TestName": "XRay - AP & LAT VIEWS OF NASAL BONE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0333",
+  "TestName": "XRay - OBLIQUE VIEW OF ORBIT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0334",
+  "TestName": "XRay - PA VIEW OF SACRUM BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0335",
+  "TestName": "XRay - OBL VIEW OF SACRUM BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0336",
+  "TestName": "XRay - AP & LAT VIEWS OF SCAPULA RIGHT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0337",
+  "TestName": "XRay - AP & LAT VIEWS OF TM JOINT LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0338",
+  "TestName": "XRay - AP & SCHAPHOID VIEWS OF WRIST LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0339",
+  "TestName": "XRay - LAT VIEW OF WRIST BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0340",
+  "TestName": "XRay - OBLIQUE VIEW WRIST BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0341",
+  "TestName": "XRay - PA VIEW OF WRIST BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0342",
+  "TestName": "XRay - SCHAPHOID VIEW OF WRIST BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0343",
+  "TestName": "XRay - AP & LAT VIEWS OF LEG LEFT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0344",
+  "TestName": "XRay - AP & OBLIQUE VIEWS OF WRIST",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0345",
+  "TestName": "XRay - PA VIEW OF HANDS BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0346",
+  "TestName": "XRay- AP & LATERAL VIEWS OF KNEE LEFT (STANDING)",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0347",
+  "TestName": "XRay - AP & OBLIQUE VIEWS OF CERVICAL SPINE",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0348",
+  "TestName": "XRay - SKYLINE VIEW OF PATELLA BOTH",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0349",
+  "TestName": "XRay - BABYGRAM",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0350",
+  "TestName": "X-Ray Lat view of Thoracolumbar spine Flexion and Extension",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0351",
+  "TestName": "X-RAY LEFT HUMERUS AP & LAT",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHXR0352",
+  "TestName": "XRay - AP & LAT VIEWS OF SCAPULA (2 FILMS)",
+  "OurPrice": 525,
+  "CustomerPrice": 637.5,
+  "ActualPrice": 750
+ },
+ {
+  "TestID": "PHXR0353",
+  "TestName": "XRay - WHOLE SPINE",
+  "OurPrice": 560,
+  "CustomerPrice": 680,
+  "ActualPrice": 800
+ },
+ {
+  "TestID": "PHXR0354",
+  "TestName": "XRay - LOOPOGRAM",
+  "OurPrice": 630,
+  "CustomerPrice": 765,
+  "ActualPrice": 900
+ },
+ {
+  "TestID": "PHXR0355",
+  "TestName": "XRay - AP & LAT VIEWS ANKLE BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0356",
+  "TestName": "XRay - AP & LAT VIEWS OF ELBOWS BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0357",
+  "TestName": "XRay - AP & LAT VIEWS OF FEMUR BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0358",
+  "TestName": "XRay - AP & LAT VIEWS OF FOOT BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0359",
+  "TestName": "XRay - AP & LAT VIEWS OF HUMERUS BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0360",
+  "TestName": "XRay - AP & LAT VIEWS OF KNEES BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0361",
+  "TestName": "XRay - AP & LAT VIEWS OF FEET",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0362",
+  "TestName": "XRay - AP & LAT VIEWS OF HANDS BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0363",
+  "TestName": "XRay - AP & LAT VIEWS OF KNEES BOTH (STANDING)",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0364",
+  "TestName": "XRay - AP & LAT VIEWS OF SHOULDER BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0365",
+  "TestName": "XRay - PA & OBL VIEWS OF SACRUM BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0366",
+  "TestName": "XRay - AP & LAT VIEWS OF HIP JOINTS BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0367",
+  "TestName": "XRay - AP & LAT VIEWS OF ARM BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0368",
+  "TestName": "XRay - AP & LAT VIEWS OF FOREARM BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0369",
+  "TestName": "XRay - AP & AXILLARY VIEWS OF SHOULDER BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0370",
+  "TestName": "XRay - AP & LAT VIEWS OF WRIST BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0371",
+  "TestName": "XRay - AP & SCHAPHOID VIEWS OF WRIST BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0372",
+  "TestName": "XRay - AP & LAT VIEWS FOOT BOTH (STANDING)",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0373",
+  "TestName": "XRay - AP & OBLIQUE VIEWS OF HANDS BOTH",
+  "OurPrice": 665,
+  "CustomerPrice": 807.5,
+  "ActualPrice": 950
+ },
+ {
+  "TestID": "PHXR0374",
+  "TestName": "XRay - BARIUM SWALLOW",
+  "OurPrice": 700,
+  "CustomerPrice": 850,
+  "ActualPrice": 1000
+ },
+ {
+  "TestID": "PHXR0375",
+  "TestName": "XRay - BARIUM ENEMA",
+  "OurPrice": 700,
+  "CustomerPrice": 850,
+  "ActualPrice": 1000
+ },
+ {
+  "TestID": "PHXR0376",
+  "TestName": "XRay - BARIUM MEAL SERIES",
+  "OurPrice": 700,
+  "CustomerPrice": 850,
+  "ActualPrice": 1000
+ },
+ {
+  "TestID": "PHXR0377",
+  "TestName": "XRay - DISTAL COLOGRAM",
+  "OurPrice": 980,
+  "CustomerPrice": 1190,
+  "ActualPrice": 1400
+ },
+ {
+  "TestID": "PHXR0378",
+  "TestName": "XRay - FISTULOGRAM",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0379",
+  "TestName": "Xray - BARIUM MEAL FOLLOW THROUGH",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0380",
+  "TestName": "XRay - MICTURATING CYSTOURETHROGRAM (MCUG)",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0381",
+  "TestName": "XRay - NEPHRASTOGRAM",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0382",
+  "TestName": "XRay - RETROGRADE URETHROGRAM",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0383",
+  "TestName": "XRay - SINOGRAM",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0384",
+  "TestName": "XRay - URETHROGRAM",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0385",
+  "TestName": "XRay - GASTRO GRAFFIN",
+  "OurPrice": 1260,
+  "CustomerPrice": 1530,
+  "ActualPrice": 1800
+ },
+ {
+  "TestID": "PHXR0386",
+  "TestName": "XRay - KUB & IVP NON IONIC CONTRAST",
+  "OurPrice": 1960,
+  "CustomerPrice": 2380,
+  "ActualPrice": 2800
+ },
+ {
+  "TestID": "PHOPG001",
+  "TestName": "CEPHALOGRAM",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHOPG002",
+  "TestName": "X-RAY DENTAL OPG",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHOPG003",
+  "TestName": "TMJ - OPEN & CLOSED MOUTH(OPG)",
+  "OurPrice": 560,
+  "CustomerPrice": 680,
+  "ActualPrice": 800
+ },
+ {
+  "TestID": "PHOPG004",
+  "TestName": "Cephalogram PA view",
+  "OurPrice": 350,
+  "CustomerPrice": 425,
+  "ActualPrice": 500
+ },
+ {
+  "TestID": "PHTMT001",
+  "TestName": "TMT - TREAD MILL STRESS TEST",
+  "OurPrice": 945,
+  "CustomerPrice": 1147.5,
+  "ActualPrice": 1350
+ },
+ {
+  "TestID": "PHTMT002",
+  "TestName": "ECG",
+  "OurPrice": 140,
+  "CustomerPrice": 170,
+  "ActualPrice": 200
+ },
+ {
+  "TestID": "PHTMT003",
+  "TestName": "EEG",
+  "OurPrice": 960,
+  "CustomerPrice": 1020,
+  "ActualPrice": 1200
+ },
+ {
+  "TestID": "PHTMT004",
+  "TestName": "PULMONARY FUNCTION TEST",
+  "OurPrice": 560,
+  "CustomerPrice": 595,
+  "ActualPrice": 700
+ }
+]

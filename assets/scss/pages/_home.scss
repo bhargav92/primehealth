@@ -1,0 +1,44 @@
+.service-section{
+    .card{
+       @extend %dark-color;
+
+       img{
+        // width: 4rem;
+        @include img-size;
+       }
+    }
+}
+
+.service-card-right{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999;
+}
+
+@media (min-width: 1200px){
+    .service-card-right{
+        width: 30%;
+    }
+}
+
+.surgeon-section{
+    a{
+        img{
+            @include img-size;
+        }
+    }
+}
+
+#promotion-slider .owl-nav{
+    display: none;
+}
+
+#promotion-slider .owl-dots{
+    margin-top: 10px;
+}
+
+.w-fit-content{
+    width: fit-content;
+}

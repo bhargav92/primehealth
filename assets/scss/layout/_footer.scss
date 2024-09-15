@@ -1,0 +1,28 @@
+.bg-footer{
+    @include bg-gradient;
+
+    .social-links{
+        a{
+            @include border-all(1px, solid, $white);
+            @include inline-flex;
+            @include justify-content(center);
+            @include align-items(center);
+            @include margin-right(5px);
+            border-radius: 30px;
+            padding: 5px;
+            width: 2rem;
+            height: 2rem;   
+            transition: all 0.5s linear;      
+
+            &:hover{
+                background-color: $white;
+                color: $blue-thick !important;
+            }
+        }
+
+    }
+
+    .footer-hr{
+        border-top: 1px solid #f1f8ff;
+    }
+}
