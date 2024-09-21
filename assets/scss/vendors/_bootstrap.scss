@@ -3818,12 +3818,12 @@ textarea.form-control.is-invalid {
 		float: right;
 		padding-right: var(--bs-breadcrumb-item-padding-x);
 		padding-left: var(--bs-breadcrumb-item-padding-x);
-		color: $white;
+		color: var(--bs-body-color);
 		content: var(--bs-breadcrumb-divider, "/");
 	}
 }
 .breadcrumb-item.active {
-	color: $white;
+	color: var(--bs-body-color);; 
 }
 .pagination {
 	--bs-pagination-padding-x: 0.75rem;

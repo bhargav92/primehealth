@@ -158,6 +158,36 @@
     });
   }
 
+  // Select the preloader by its ID
+  // let preloader = document.querySelector('#preloader');
+
+  // // Check if the preloader exists
+  // if (preloader) {
+  //   // Add an event listener to the window that listens for the 'load' event
+  //   window.addEventListener('load', () => {
+  //     // Remove the preloader after the page fully loads
+  //     preloader.style.display = 'none';
+      
+  //     // Optionally, display the main content after the preloader disappears
+  //     let content = document.querySelector('.content');
+  //     if (content) {
+  //       content.style.display = 'block';
+  //     }
+  //   });
+  // }
+
+
+  // alert success
+  // $(document).on('click', '#success', function(e) {
+  //   Swal.fire({
+  //     // icon: 'success',
+  //     title: '<div class="alert-rounded alert-success text-white text-center"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check"><path d="M19.64 5.068c-.157.053-.844.725-5.41 5.286L9 15.579l-2.23-2.224c-2.017-2.012-2.249-2.231-2.427-2.29-.39-.129-.766-.044-1.044.234s-.363.654-.234 1.044c.059.179.306.438 2.69 2.828 1.882 1.887 2.675 2.655 2.801 2.716.244.119.509.137.77.053.205-.066.458-.313 5.845-5.694 4.114-4.11 5.654-5.673 5.716-5.802.398-.817-.378-1.673-1.247-1.376" fill="currentColor" fill-rule="evenodd" stroke="none" /></svg></div>',
+  //     html: '<div class="fs-16 font-weight-bold">Success</div><div>Your Message has been sent successfully</div>',
+  //     // showCloseButton: true,
+  //   })
+  // })
+
+
 
   // datepicker
   var dtToday = new Date();

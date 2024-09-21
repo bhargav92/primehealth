@@ -109,6 +109,12 @@ small{
     @include fs-md(14px);
 }
 
+.styled{
+    @extend .unstyled;
+    list-style-type: disc;
+    padding-inline-start: 15px;
+}
+
 .cursor-pointer{
     cursor: pointer;
 }
