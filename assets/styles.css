@@ -17287,6 +17287,13 @@ small {
   width: 120px;
 }
 
+.tourism-banner {
+  background-image: url("../assets/img/tourism/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 .contact-section .contact-icon span {
   background-color: aliceblue;
   padding: 10px;
