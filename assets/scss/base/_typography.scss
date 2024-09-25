@@ -102,6 +102,10 @@ small{
     background: linear-gradient(145deg, rgb(255, 255, 255) 0%, rgba(236, 241, 247, 0.6671043417) 75%, rgb(0 71 150 / 15%) 100%);
 }
 
+.bg-light-gradient{
+    @include bg-light-gradient;
+}
+
 .unstyled{
     list-style-type: none;
     padding-inline-start: 0px;

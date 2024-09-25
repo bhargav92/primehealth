@@ -291,6 +291,11 @@
   object-fit: contain;
 }
 
+@mixin bg-light-gradient{
+  background: rgb(255,242,228);
+  background: linear-gradient(292deg, rgba(255,242,228,1) 0%, rgba(219,236,255,1) 100%);
+}
+
 @mixin bg-gradient{
   background: rgb(0,71,150);
   background: linear-gradient(162deg, rgba(0,71,150,1) 0%, rgba(6,147,227,1) 100%);

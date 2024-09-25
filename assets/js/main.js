@@ -151,12 +151,13 @@
   /**
    * Preloader
    */
-  let preloader = select('#preloader');
-  if (preloader) {
-    window.addEventListener('load', () => {
-      preloader.remove()
-    });
-  }
+  $(".preloader").fadeOut();
+  // let preloader = select('#preloader');
+  // if (preloader) {
+  //   window.addEventListener('load', () => {
+  //     preloader.remove()
+  //   });
+  // }
 
   // Select the preloader by its ID
   // let preloader = document.querySelector('#preloader');
