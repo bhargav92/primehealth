@@ -2,11 +2,11 @@
 @import '../abstracts/variables';
 
 .fs-md, p{
-    @include fs-md(14px);
+    @include fs-md(0.85rem);
 }
 
 .text-sm{
-    font-size: 0.85rem
+    @include fs-md(0.85rem);
 }
 
 small{
