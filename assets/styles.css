@@ -16813,13 +16813,16 @@ small {
   z-index: 9999;
   background-color: #fff;
 }
-
 .preloader .loading {
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   font: 14px arial;
+}
+.preloader img {
+  width: 120px;
+  height: 75px;
 }
 
 .bg-orange {
