@@ -4,3 +4,9 @@
     background-size: cover;
     background-position: center;
 }
+
+.wellness-banner{
+    @extend .tourism-banner;
+    background-image: url('../assets/img/tourism/ayurveda.png');
+    background-position: bottom;
+}

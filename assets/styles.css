@@ -17325,11 +17325,16 @@ small {
     width: 160px;
   }
 }
-.tourism-banner {
+.tourism-banner, .wellness-banner {
   background-image: url("../assets/img/tourism/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.wellness-banner {
+  background-image: url("../assets/img/tourism/ayurveda.png");
+  background-position: bottom;
 }
 
 .contact-section .contact-icon span {
