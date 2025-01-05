@@ -616,7 +616,7 @@ sup {
 }
 
 a {
-  color: #f69022;
+  color: #ee386a;
   text-decoration: none;
   cursor: pointer;
 }
@@ -4026,7 +4026,7 @@ textarea.form-control.is-invalid {
   transition: var(--bs-accordion-btn-icon-transition);
 }
 .accordion-button:not(.collapsed) {
-  color: #004796;
+  color: #ee386a;
   background: rgb(255, 242, 228);
   background: linear-gradient(292deg, rgb(255, 242, 228) 0%, rgb(219, 236, 255) 100%);
   box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
@@ -13454,8 +13454,8 @@ works properly when clicked or hovered */
   list-style-type: none;
 }
 .ui-menu .ui-menu-item:hover {
-  color: #004796;
-  background-color: #f69022;
+  color: #ee386a;
+  background-color: #582b84;
 }
 .ui-menu .ui-menu-item-wrapper {
   position: relative;
@@ -15942,7 +15942,7 @@ div:where(.swal2-container) button:where(.swal2-styled) {
   transition: box-shadow 0.1s;
   font-weight: 500;
   background-color: #fff !important;
-  color: #f69022 !important;
+  color: #582b84 !important;
   font-size: 14px;
   box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12) !important;
 }
@@ -16727,15 +16727,19 @@ small {
   color: var(--bs-body-color);
 }
 
-.text-blue {
-  color: #004796;
+.text-crimson {
+  color: #ee386a;
 }
 
-.text-orange {
-  color: #f69022;
+.text-purple {
+  color: #582b84;
 }
 
-.bg-orange-light {
+.bg-crimson {
+  background-color: #ee386a;
+}
+
+.bg-purple-light {
   background-color: #ffe9d3;
 }
 
@@ -16775,8 +16779,8 @@ small {
 }
 
 .bg-gradient {
-  background: rgb(0, 71, 150);
-  background: linear-gradient(162deg, rgb(0, 71, 150) 0%, rgb(6, 147, 227) 100%);
+  background: #582b84;
+  background: linear-gradient(142deg, #ee386a 0%, #582b84 100%);
 }
 
 .bg-gradient2 {
@@ -16825,12 +16829,12 @@ small {
   height: 75px;
 }
 
-.bg-orange {
-  background-color: #f69022;
+.bg-purple {
+  background-color: #582b84;
 }
 
 .bg-blue {
-  background-color: #004796;
+  background-color: #ee386a;
 }
 
 .text-webkit-center {
@@ -16868,7 +16872,7 @@ small {
 }
 
 .alert-success {
-  background: #f69022;
+  background: #582b84;
   color: #ffffff;
 }
 
@@ -16931,7 +16935,7 @@ small {
   line-height: 1.35;
 }
 .ProductNav_Link.active {
-  background-color: #004796;
+  background-color: #ee386a;
   color: #ffffff !important;
   border: none;
 }
@@ -17002,16 +17006,16 @@ small {
   box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.4);
 }
 
-.btn-orange {
-  background-color: #f69022;
+.btn-purple {
+  background-color: #582b84;
 }
 
-.btn-blue-thick {
-  background-color: #004796;
+.btn-crimson {
+  background-color: #ee386a;
 }
 
 .btn-default {
-  color: #f69022;
+  color: #582b84;
   background-color: #ffffff;
 }
 
@@ -17019,7 +17023,7 @@ small {
   background-color: rgba(255, 255, 255, 0.06);
   -webkit-backdrop-filter: blur(15px);
           backdrop-filter: blur(15px);
-  color: #f69022;
+  color: #582b84;
 }
 
 /* Ripple */
@@ -17099,7 +17103,7 @@ small {
   border: none;
 }
 .dropdown-menu li :hover {
-  background-color: #004796;
+  background-color: #ee386a;
 }
 
 #header {
@@ -17120,7 +17124,7 @@ small {
   color: var(--bs-body-color);
 }
 #header .logo img {
-  max-height: 36px;
+  max-height: 38px;
 }
 
 #header.header-scrolled {
@@ -17142,8 +17146,8 @@ small {
 }
 
 .bg-footer {
-  background: rgb(0, 71, 150);
-  background: linear-gradient(162deg, rgb(0, 71, 150) 0%, rgb(6, 147, 227) 100%);
+  background: #582b84;
+  background: linear-gradient(142deg, #ee386a 0%, #582b84 100%);
 }
 .bg-footer .social-links a {
   border-width: 1px;
@@ -17161,7 +17165,7 @@ small {
 }
 .bg-footer .social-links a:hover {
   background-color: #ffffff;
-  color: #004796 !important;
+  color: #ee386a !important;
 }
 .bg-footer .footer-hr {
   border-top: 1px solid #f1f8ff;
@@ -17180,7 +17184,7 @@ small {
 }
 
 .inputOtp:focus {
-  border-bottom: 1px solid #f69022;
+  border-bottom: 1px solid #582b84;
   outline: none;
 }
 
@@ -17265,6 +17269,13 @@ small {
 .w-fit-content {
   width: -moz-fit-content;
   width: fit-content;
+}
+
+.clients .img-thumbnail {
+  min-height: 125px;
+}
+.clients .img-thumbnail img {
+  width: 75%;
 }
 
 .about-banner {

@@ -312,11 +312,11 @@ sup {
 	top: -.5em;
 }
 a {
-	color: $orange;
+	color: $crimson;
 	text-decoration: none;
 	cursor: pointer;
 	// :hover {
-	// 	color: $orange;
+	// 	color: $purple;
 	// }
 	:not([href]) {
 		:not([class]) {
@@ -3720,7 +3720,7 @@ textarea.form-control.is-invalid {
 		transition: var(--bs-accordion-btn-icon-transition);
 	}
 	&:not(.collapsed) {
-		color: $blue-thick;
+		color: $crimson;
 		@include bg-light-gradient;
 		box-shadow: inset 0 calc(-1 * var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color);
 		&::after {

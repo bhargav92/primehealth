@@ -32,12 +32,12 @@
   }
  
 
-.bg-orange{
-    background-color: $orange;
+.bg-purple{
+    background-color: $purple;
 }
 
 .bg-blue{
-    background-color: $blue-thick;
+    background-color: $crimson;
 }
 
 .text-webkit-center{
@@ -86,7 +86,7 @@
   }
 
   .alert-success {
-	background: $orange;
+	background: $purple;
 	color: #ffffff;
   }
 
@@ -157,7 +157,7 @@
 	// }
 
     &.active{
-        background-color: $blue-thick;
+        background-color: $crimson;
         color: $white !important;
         border: none;
     }

@@ -297,8 +297,8 @@
 }
 
 @mixin bg-gradient{
-  background: rgb(0,71,150);
-  background: linear-gradient(162deg, rgba(0,71,150,1) 0%, rgba(6,147,227,1) 100%);
+  background: $purple;
+  background: linear-gradient(142deg, $crimson 0%, $purple 100%);
 }
 
 @mixin bg-gradient2{

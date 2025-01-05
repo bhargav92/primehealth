@@ -72,20 +72,20 @@ small{
     @extend %dark-color;
 }
 
-%blue{
-    color: $blue-thick;
+.text-crimson{
+    color: $crimson;;
 }
 
-.text-blue{
-    @extend %blue;
+.text-purple{
+    color: $purple;
 }
 
-.text-orange{
-    color: $orange;
+.bg-crimson{
+    background-color: $crimson;
 }
 
-.bg-orange-light{
-    background-color: $orange-light;
+.bg-purple-light{
+    background-color: $purple-light;
 }
 
 .bg-light-blue{

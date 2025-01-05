@@ -139,15 +139,75 @@
     </section>
 
 
-    <!-- <section class="py-4">
+    <!-- begin:: our clients -->
+    <section class="clients my-3 mb-3">
       <div class="container">
-        <h5>Health Talks</h5>
-        <p>We bring expert knowledge directly to your workplace through our health talks. Our sessions are led
-          by reputed doctors, including orthopedists, nutritionists, psychiatrists, and other specialists. These
-          talks cover a wide range of topics, from managing stress and mental health to maintaining physical
-          fitness and nutrition, empowering your employees with valuable health information.</p>
+        <h4 class="text-center mb-4">Trusted By Many fortune 500 Corporate’s</h4>
+
+        <div class="row">
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/Aurobindo_Pharmma.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/Eugia-Logo.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/neuland.png" alt="aig" class="">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/hyundai.png" alt="max" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/andhra-paper.jpg" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/ramky.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/resustainability.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/saideepa_rock-drilling.jpg" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/nutrgrace.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/Livestamin_logo.avif" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/bimbo.png" alt="" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-3 col-lg-2 d-grid">
+            <div class="d-flex align-items-center justify-content-center img-thumbnail mb-3">
+              <img src="assets/img/clients/Avantifeeds-logo.png" alt="" class="img-fluid">
+            </div>
+          </div>
+        </div>
       </div>
-    </section> -->
+    </section>
 </main>
 
   <!-- begin:: footer -->
@@ -156,7 +216,7 @@
       <div class="row">
         <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-3">
           <div class="">
-            <h5 class="text-white mb-3">Health</h5>
+            <h5 class="text-white mb-3">Our Services</h5>
 
             <ul class="unstyled mb-0">
               <li><a href="dr-consultation.html" class="text-white">Doctor Consultations</a></li>
@@ -172,7 +232,7 @@
             <h5 class="text-white mb-3">About</h5>
 
             <ul class="unstyled mb-0">
-              <li><a href="about.html" class="text-white">About</a></li>
+              <li><a href="about.html" class="text-white">About Us</a></li>
               <li><a href="testimonials.html" class="text-white">Testimonials</a></li>
               <li><a href="contact.html" class="text-white">Contact</a></li>
               <li><a href="blog.html" class="text-white">Blog</a></li>
@@ -240,36 +300,6 @@
 
   <!-- <script src="assets/js/aos.js"></script> -->
   <script src="assets/js/main.js"></script>
-
-  <script type = "text/javascript" >
-    window.addEventListener("DOMContentLoaded", function() {
-        const yourForm = document.getElementById('FORM_ID');
-        yourForm.addEventListener("submit", function(e) {
-            e.preventDefault();
-            const data = new FormData(yourForm);
-            const action = e.target.action;
-            fetch(action, {
-                method: 'POST',
-                body: data,
-            }).then((html) => {
-                // you can put any JS code here
-                alert('success');
-                document.getElementById('corporate').value = '';
-                document.getElementById('requirement').value = '';
-                document.getElementById('person').value = ''; 
-                document.getElementById('email').value = '';
-                document.getElementById('mobile').value = '';
-                document.getElementById('comments').value = '';
-                // window.location.href = 'https://primehealth.in/';
-            })
-        })
-    }); 
-
-    $('.numeric').on('input', function (event) { 
-        this.value = this.value.replace(/[^0-9]/g, '');
-    });
-  </script>
-
 </body>
 
 </html>

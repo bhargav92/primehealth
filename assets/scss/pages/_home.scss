@@ -42,3 +42,11 @@
 .w-fit-content{
     width: fit-content;
 }
+
+.clients .img-thumbnail{
+    min-height: 125px;
+    
+    img{
+        width: 75%;
+    }
+}
